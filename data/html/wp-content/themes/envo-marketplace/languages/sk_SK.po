@@ -1,0 +1,389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Envo Marketplace\n"
+"POT-Creation-Date: 2021-04-15 20:11+0200\n"
+"PO-Revision-Date: 2021-04-15 20:27+0200\n"
+"Language-Team: Envo Marketplace <info@envothemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"Last-Translator: \n"
+"Language: sk_SK\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Och! Túto stránku nemožno nájsť."
+
+#: 404.php:10
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Vyzerá to, že tu naozaj nič nie je. Možno skúste vyhľadávanie?"
+
+#: comments.php:19
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Jeden komentár na &ldquo;%s&rdquo;"
+
+#: comments.php:22
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s komentár k &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s komentáre k &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s komentárov k &ldquo;%2$s&rdquo;"
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "Komentáre sú uzavreté."
+
+#: content-none.php:3
+msgid "Nothing Found"
+msgstr "Nič sme nenašli"
+
+#: content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Ste pripravení publikovať svoj prvý príspevok? <a href=\"%1$s\">Začnite tu</"
+"a>."
+
+#: content-none.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Zadanému výrazu nezodpovedá žiadny obsah. Skúste prosím zadať iný výraz."
+
+#: content-none.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Zdá sa, že nemôžete nájsť, čo hľadáte. Snáď pomôže vyhľadávania."
+
+#: functions.php:22
+msgid "Main Menu"
+msgstr "Hlavné menu"
+
+#: functions.php:25
+msgid "Menu Right"
+msgstr "Menu vpravo"
+
+#: functions.php:26
+msgid "Categories Menu"
+msgstr "Menu kategórii"
+
+#: functions.php:90
+msgid ""
+"Save time by importing our demo data: your website will be set up and ready "
+"to be customized in minutes."
+msgstr ""
+"Ušetrite čas importom našich demo dát, Vaše webové stránky nastavené a "
+"pripravené k úpravám počas minút."
+
+#: functions.php:96
+#, php-format
+msgid "To enable shop features, please install and activate the %s plugin."
+msgstr ""
+"Pre aktivovanie funkcie obchodu, nainštalujte a aktivujte %s plugin prosím."
+
+#: functions.php:102
+msgid "The most advanced frontend drag & drop page builder."
+msgstr "Najpokročilejšie vizuální tvorca stránok."
+
+#: functions.php:200
+msgctxt "Open Sans Condensed font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:337
+msgid "Sidebar"
+msgstr "Bočný panel"
+
+#: functions.php:347
+msgid "Top Bar Section"
+msgstr "Horný panel"
+
+#: functions.php:357
+msgid "Header Section"
+msgstr "Sekcia hlavičky"
+
+#: functions.php:367
+msgid "Footer Section"
+msgstr "Sekcia zápätie"
+
+#: functions.php:416
+msgid "Category"
+msgstr "Rubriky"
+
+#: functions.php:420
+msgid "Tags"
+msgstr "Značky"
+
+#: functions.php:466
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Web běží na %s"
+
+#: functions.php:466
+msgid "https://wordpress.org/"
+msgstr "https://sk.wordpress.org/"
+
+#: functions.php:466
+msgid "WordPress"
+msgstr "WordPress"
+
+#: functions.php:471
+#, php-format
+msgid "Theme: %1$s"
+msgstr "Šablóna: %1$s"
+
+#: functions.php:471
+msgctxt "Theme name, do not translate"
+msgid "Envo Marketplace"
+msgstr "Envo Marketplace"
+
+#: functions.php:508
+msgid "By"
+msgstr "Od"
+
+#: functions.php:530
+msgid "Off"
+msgstr "Vypnuté"
+
+#: functions.php:533
+msgid "Comment on "
+msgstr "Komentár na "
+
+#: functions.php:556
+msgid "About The Author"
+msgstr "O autorovi"
+
+#: functions.php:716
+msgid "Previous Post"
+msgstr "Predchádzajúci príspevok"
+
+#: functions.php:716
+msgid "Previous"
+msgstr "Predchádzajúca"
+
+#: functions.php:717
+msgid "Next Post"
+msgstr "Nasledujúci príspevok"
+
+#: functions.php:717
+msgid "Next"
+msgstr "Nasledujúca"
+
+#: functions.php:746
+msgid "Skip to the content"
+msgstr "Preskočiť na obsah"
+
+#: lib/customizer/demo.php:15 lib/dashboard.php:307 lib/dashboard.php:309
+msgid "One Click Demo Import"
+msgstr "Demo import na 1 kliknutie"
+
+#: lib/customizer/demo.php:27 lib/dashboard.php:452
+#, php-format
+msgid ""
+"You can import the demo content with just one click. For step-by-step video "
+"tutorial, see %1$s"
+msgstr ""
+"Môžete importovať demo obsah s jednoduchým jedným kliknutím. Pre podrobný "
+"video návod, navštívte %1$s"
+
+#: lib/customizer/demo.php:27 lib/customizer/info.php:30 lib/dashboard.php:452
+msgid "documentation"
+msgstr "dokumentáciu"
+
+#: lib/customizer/demo.php:42 lib/customizer/demo.php:44 lib/dashboard.php:443
+msgid "Import demo data"
+msgstr "Importovať demo dáta"
+
+#: lib/customizer/info.php:11
+msgid "Video Documentation & Demo"
+msgstr "Videodokumentácie & Demo"
+
+#: lib/customizer/info.php:26
+#, php-format
+msgid "You can use this theme to create a website like these %1$s"
+msgstr "Túto šablónu môžete použiť na vytvorenie webovej stránky ako %1$s"
+
+#: lib/customizer/info.php:26
+msgid "demos"
+msgstr "dema"
+
+#: lib/customizer/info.php:30
+#, php-format
+msgid "For step-by-step videos and text tutorials, see %1$s"
+msgstr "Pre podrobné video a textové výukové lekcie prejdite na %1$s"
+
+#: lib/customizer/info.php:145
+msgid "PRO version"
+msgstr "PRO verzia"
+
+#: lib/customizer/info.php:147
+msgid "View PRO version"
+msgstr "Zobraziť PRO verziu"
+
+#: lib/dashboard.php:118
+#, php-format
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "%1$s vyžadovaná akcie"
+msgstr[1] "%1$s vyžadované akcie"
+msgstr[2] "%1$s vyžadovaných akcií"
+
+#: lib/dashboard.php:121
+#, php-format
+msgid "Envo Marketplace theme %s"
+msgstr "Envo Marketplace šablóna %s"
+
+#: lib/dashboard.php:123
+msgid "Envo Marketplace theme"
+msgstr "Envo Marketplace šablóna"
+
+#: lib/dashboard.php:126
+msgid "Envo Marketplace dashboard"
+msgstr "Envo Marketplace nástenka"
+
+#: lib/dashboard.php:147 lib/dashboard.php:352
+#, php-format
+msgid "Welcome to %1$s - Version %2$s"
+msgstr "Vitajte v %1$s - verzia %2$s"
+
+#: lib/dashboard.php:154
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome "
+"page</a>"
+msgstr ""
+"Vitaj! Ďakujeme vám, že ste si vybrali %1$s! Ak chcete plne využiť našu "
+"šablónu a všetko čo ponúka uistite sa prosím, že navštívite našu <a href="
+"\"%2$s\">úvodnú stránku</a>"
+
+#: lib/dashboard.php:162
+#, php-format
+msgid "Get started with %s"
+msgstr "Začíname s %s"
+
+#: lib/dashboard.php:201
+msgid "Install Now"
+msgstr "Nainštalovať teraz"
+
+#: lib/dashboard.php:220
+msgid "Activate"
+msgstr "Aktivovať"
+
+#: lib/dashboard.php:241
+msgid "Details"
+msgstr "Podrobnosti"
+
+#: lib/dashboard.php:288
+msgid "Recommended Actions"
+msgstr "Odporúčané akcie"
+
+#: lib/dashboard.php:369
+msgid "Theme Customizer"
+msgstr "Prispôsobenie šablóny"
+
+#: lib/dashboard.php:373
+#, php-format
+msgid ""
+"%s supports the Theme Customizer for all theme settings. Click \"Customize\" "
+"to personalize your site."
+msgstr ""
+"%s podporuje možnosti prispôsobenia pre všetky nastavenia šablóny. Kliknite "
+"na tlačidlo \"Prispôsobiť\" a začnite upravovať váš web."
+
+#: lib/dashboard.php:377
+msgid "Start customizing"
+msgstr "Začnite upravovať"
+
+#: lib/dashboard.php:381
+msgid "Theme documentation"
+msgstr "Dokumentácia šablóny"
+
+#: lib/dashboard.php:385
+#, php-format
+msgid ""
+"Need help in setting up and configuring %s? Please take a look at our "
+"documentation page."
+msgstr ""
+"Potrebujete pomoc s nastavením a konfiguráciou %s? Pozrite sa prosím na naše "
+"pokyny v dokumentácii."
+
+#: lib/dashboard.php:392
+#, php-format
+msgid "%s Documentation"
+msgstr "%s dokumentácie"
+
+#: lib/dashboard.php:398
+msgid "Having trouble? Need support?"
+msgstr "Máte problémy, potrebujete pomoc?"
+
+#: lib/dashboard.php:400
+msgid "Contact us"
+msgstr "Napíšte nám"
+
+#: lib/dashboard.php:425
+msgid "Recommended plugins"
+msgstr "Odporúčané pluginy"
+
+#: lib/dashboard.php:434
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Výborne! V súčasnej dobe nie sú žiadne požadované akcie."
+
+#: lib/woocommerce.php:6
+msgid "Cart"
+msgstr "Košík"
+
+#: lib/woocommerce.php:64
+msgid "My Account"
+msgstr "Môj účet"
+
+#: lib/woocommerce.php:83
+msgid "Wishlist"
+msgstr "Želanie"
+
+#: lib/woocommerce.php:102
+msgid "Compare"
+msgstr "Porovnať"
+
+#: lib/woocommerce.php:143 lib/woocommerce.php:165
+msgid "Categories"
+msgstr "Kategórie"
+
+#: lib/woocommerce.php:198
+msgid "Search products..."
+msgstr "Hľadať produkty..."
+
+#: lib/woocommerce.php:200
+msgid "All Categories"
+msgstr "Všetky kategórie"
+
+#: lib/wp_bootstrap_navwalker.php:362
+msgid "Add a menu"
+msgstr "Pridať menu"
+
+#: search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhľadávania pre: %s"
+
+#: template-parts/template-part-topnav.php:40
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Select"
+msgstr "Vybrať"

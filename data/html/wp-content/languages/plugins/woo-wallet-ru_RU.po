@@ -1,0 +1,1233 @@
+# Translation of Plugins - TeraWallet &#8211; For WooCommerce - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - TeraWallet &#8211; For WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-16 20:06:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - TeraWallet &#8211; For WooCommerce - Stable (latest release)\n"
+
+#: includes/class-woo-wallet-frontend.php:248
+msgid "No matching records found"
+msgstr "Совпадающих записей не найдено"
+
+#. translators: %s: wallet top-up
+#: includes/class-woo-wallet-admin.php:205
+msgid "%s wallet top-up this month"
+msgstr "%s пополнение кошелька в этом месяце"
+
+#. translators: max length
+#: includes/class-woo-wallet-frontend.php:238
+msgid "(filtered from %1s total entries)"
+msgstr "(отфильтровано из %1s общего числа записей)"
+
+#: includes/class-woo-wallet-frontend.php:251
+msgid "Processing..."
+msgstr "Обработка ..."
+
+#: includes/class-woo-wallet-frontend.php:253
+msgid "yyyy-mm-dd"
+msgstr "гггг-мм-дд"
+
+#: includes/actions/class-woo-wallet-action-referrals.php:87
+msgid "Enter amount which will be credited to the user wallet for referring a user."
+msgstr "Введите сумму, которая будет зачислена на кошелек пользователя за привлечение пользователя."
+
+#: includes/class-woo-wallet-frontend.php:252
+msgid "Search by date:"
+msgstr "Искать по дате:"
+
+#: includes/admin/class-woo-wallet-balance-details.php:345
+msgid "You are about to delete transaction records from database for selected users."
+msgstr "Вы собираетесь удалить записи транзакций из базы данных для выбранных пользователей."
+
+#: includes/admin/class-woo-wallet-balance-details.php:39
+msgid "cb"
+msgstr "cb"
+
+#: templates/woo-wallet-referrals.php:38
+msgid "Copy"
+msgstr "Копировать"
+
+#: templates/woo-wallet-referrals.php:131
+msgid "Copied"
+msgstr "Скопировано"
+
+#: templates/woo-wallet-referrals.php:37 templates/woo-wallet-referrals.php:136
+msgid "Copy to clipboard"
+msgstr "Скопировать в буфер обмена"
+
+#: includes/admin/class-woo-wallet-transaction-details.php:83
+msgid "No transactions found."
+msgstr "Транзакции не найдены."
+
+#: includes/admin/class-woo-wallet-balance-details.php:56
+msgid "No users found."
+msgstr "Пользователи не найдены."
+
+#: includes/admin/class-woo-wallet-balance-details.php:177
+msgid "No role"
+msgstr "Нет роли"
+
+#. translators: User role name with count
+#: includes/admin/class-woo-wallet-balance-details.php:165
+#: includes/admin/class-woo-wallet-balance-details.php:179
+msgid "%1$s <span class=\"count\">(%2$s)</span>"
+msgstr "%1$s <span class=\"count\">(%2$s)</span>"
+
+#. translators: Total user
+#: includes/admin/class-woo-wallet-balance-details.php:154
+msgctxt "users"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#: includes/class-woo-wallet-settings.php:160
+msgid "Enter minimum transfer amount"
+msgstr "Укажите минимальную сумму для перевода"
+
+#. translators: Max transfer amount
+#: includes/class-woo-wallet-frontend.php:445
+msgid "Minimum transfer amount is %s"
+msgstr "Минимальный размер перевода составляет %s"
+
+#: includes/class-woo-wallet-settings.php:159
+msgid "Minimum Transfer Amount"
+msgstr "Минимальная сумма перевода"
+
+#. Plugin Name of the plugin
+#: includes/class-woo-wallet-actions.php:115
+#: includes/class-woo-wallet-admin.php:275
+#: includes/class-woo-wallet-admin.php:300
+#: includes/class-woo-wallet-admin.php:862
+#: includes/class-woo-wallet-admin.php:869
+#: includes/class-woo-wallet-admin.php:1044
+#: includes/class-woo-wallet-extensions.php:64
+#: includes/class-woo-wallet-settings.php:58
+msgid "TeraWallet"
+msgstr "TeraWallet"
+
+#: includes/actions/class-woo-wallet-action-referrals.php:64
+#: includes/actions/class-woo-wallet-action-referrals.php:108
+msgid "Per Month"
+msgstr "В месяц"
+
+#: includes/actions/class-woo-wallet-action-referrals.php:63
+#: includes/actions/class-woo-wallet-action-referrals.php:107
+msgid "Per Week"
+msgstr "За неделю"
+
+#: includes/actions/class-woo-wallet-action-referrals.php:62
+#: includes/actions/class-woo-wallet-action-referrals.php:106
+msgid "Per Day"
+msgstr "За день"
+
+#: includes/actions/class-woo-wallet-action-referrals.php:61
+#: includes/actions/class-woo-wallet-action-referrals.php:105
+msgid "No Limit"
+msgstr "Без ограничений"
+
+#: includes/actions/class-woo-wallet-action-referrals.php:56
+#: includes/actions/class-woo-wallet-action-referrals.php:100
+msgid "Limit"
+msgstr "Лимит"
+
+#: templates/woo-wallet-referrals.php:49
+msgid "Total Earnings"
+msgstr "Общая сумма поступлений"
+
+#: templates/woo-wallet-referrals.php:42
+msgid "Statistics"
+msgstr "Статистика"
+
+#: includes/actions/class-woo-wallet-action-referrals.php:119
+msgid "Balance credited for referring a new member"
+msgstr "Баланс пополнен за привлечение нового участника"
+
+#: includes/actions/class-woo-wallet-action-referrals.php:75
+msgid "Balance credited for referring a visitor"
+msgstr "Баланс пополнен за привлечение посетителя"
+
+#: includes/actions/class-woo-wallet-action-referrals.php:39
+msgid "Enable credit for referrals."
+msgstr "Включить кредит для рефералов"
+
+#: templates/woo-wallet-referrals.php:33
+msgid "Your referral URL is:"
+msgstr "Ваша реферальная ссылка:"
+
+#: includes/actions/class-woo-wallet-action-referrals.php:123
+msgid "Referral Links"
+msgstr "Реферальные ссылки"
+
+#: includes/class-woo-wallet-frontend.php:239
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Показываем 0 до 0 из 0 записей"
+
+#: includes/class-woo-wallet-ajax.php:370
+msgid "You have no permission to do that"
+msgstr "У вас нет прав, чтобы сделать это."
+
+#: includes/class-woo-wallet-admin.php:1125
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#: includes/class-woo-wallet-ajax.php:374
+msgid "Invalid nonce"
+msgstr "Неверный одноразовый номер"
+
+#. translators: user_email
+#: includes/class-woo-wallet-frontend.php:425
+msgid "Wallet funds transfer to %s"
+msgstr "Перевод средств с кошелька на %s"
+
+#. translators: user_email
+#: includes/class-woo-wallet-frontend.php:423
+msgid "Wallet funds received from %s"
+msgstr "Получены средства от %s"
+
+#: includes/class-woo-wallet-admin.php:1124
+msgid "Use superpowers to stand above the crowd. our high-octane add-ons are designed to boost your store wallet features."
+msgstr "Используй суперсилу чтобы стать выше толпы. Наши высокооктановые дополнения разработаны чтобы улучшить возможности кошелька для вашего магазина"
+
+#: includes/class-woo-wallet-admin.php:1123
+msgid "Obtain Superpowers to get the best out of TeraWallet"
+msgstr "Обрети суперсилы что получить максимум от TeraWallet"
+
+#: includes/class-woo-wallet-widgets.php:75
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: includes/class-woo-wallet-widgets.php:21
+msgctxt "Wallet Top-up widget"
+msgid "Wallet Top-up"
+msgstr "Виджет для пополнения кошелька"
+
+#: includes/class-woo-wallet-widgets.php:18
+msgid "TeraWallet top-up form for your site."
+msgstr "TeraWallet форма для вашего сайта"
+
+#: includes/class-woo-wallet-admin.php:1087
+msgid "Recalculate order cashback"
+msgstr "Пересчитать кэшбэк заказа"
+
+#: includes/marketplace/wcfmmp/class-woo-wallet-wcfmmp-gateway.php:42
+msgid "Commission received for commission id #"
+msgstr "Комиссия получена за id #"
+
+#: includes/marketplace/wcfmmp/class-woo-wallet-wcfmmp.php:94
+msgid "Tax for withdrawal charge, calculate in percent."
+msgstr "Налог для снятия, считается в процентах"
+
+#: includes/marketplace/wcfmmp/class-woo-wallet-wcfmmp.php:86
+msgid "Charge Tax"
+msgstr "Налог на сбор"
+
+#: includes/marketplace/wcfmmp/class-woo-wallet-wcfmmp.php:76
+msgid "Fixed Charge"
+msgstr "Фиксированный сбор"
+
+#: includes/marketplace/wcfmmp/class-woo-wallet-wcfmmp.php:66
+msgid "Percent Charge(%)"
+msgstr "Сбор в процентах(%)"
+
+#: includes/marketplace/wcfmmp/class-woo-wallet-wcfmmp.php:57
+msgid "Wallet Charge"
+msgstr "Сбор с кошелька"
+
+#: includes/marketplace/dokan/class-woo-wallet-dokan.php:143
+msgid "Withdrawal request #"
+msgstr "Запрос на снятие #"
+
+#: includes/marketplace/wc-merketplace/class-woo-wallet-wcmp-gateway.php:68
+msgid "Minimum threshold amount to withdrawal commission is "
+msgstr "Минимальный размер комиссии за снятия "
+
+#: includes/class-woo-wallet-settings.php:115
+msgid "Rechargeable Product Image"
+msgstr "Изображение для товара \"Пополнения кошелька\""
+
+#: includes/class-woo-wallet-settings.php:116
+msgid "Choose wallet rechargeable product image"
+msgstr "Выберите изображение для товара \"Пополнение кошелька\""
+
+#: includes/class-woo-wallet-settings.php:120
+msgid "Product image"
+msgstr "Изображение товара"
+
+#: includes/class-woo-wallet-settings.php:119
+#: includes/class-woo-wallet-settings.php:121
+msgid "Set product image"
+msgstr "Установите изображение товара"
+
+#: includes/class-woo-wallet-settings-api.php:424
+#: includes/class-woo-wallet-settings-api.php:425
+msgid "Select"
+msgstr "Выбрать"
+
+#. translators: wallet amount
+#: includes/class-woo-wallet-ajax.php:205
+msgid "%s refunded to customer wallet"
+msgstr "%s средства возвращены на клиентский кошелек"
+
+#: includes/class-woo-wallet-admin.php:1066
+msgid "Refunded"
+msgstr "Средства возвращены"
+
+#: includes/actions/class-woo-wallet-action-daily-visits.php:43
+msgid "This option lets you limit which user role you want to exclude."
+msgstr "Эта опция позволяет вам ограничить, какую именно пользовательскую роль хотите исключить"
+
+#: includes/actions/class-woo-wallet-action-daily-visits.php:42
+msgid "Exclude user role"
+msgstr "Исключить роль пользователя"
+
+#: includes/api/class-wc-rest-woo-wallet-controller.php:184
+#: includes/api/Controllers/Version3/class-wc-rest-wallet-controller.php:168
+msgid "Sorry, you are not allowed to create resources."
+msgstr "Извините, вам не позволено создавать ресурсы"
+
+#: includes/api/class-wc-rest-woo-wallet-controller.php:171
+#: includes/api/Controllers/Version3/class-wc-rest-wallet-controller.php:154
+msgid "Sorry, you cannot list resources."
+msgstr "Вы не можете составлять списки ресурсов."
+
+#: includes/api/class-wc-rest-woo-wallet-controller.php:79
+#: includes/api/Controllers/Version3/class-wc-rest-wallet-controller.php:77
+msgid "Wallet transaction details."
+msgstr "Сведения по транзакции кошелька"
+
+#: includes/api/class-wc-rest-woo-wallet-controller.php:74
+#: includes/api/Controllers/Version3/class-wc-rest-wallet-controller.php:72
+msgid "Wallet transaction amount."
+msgstr "Размер транзакции"
+
+#: includes/api/class-wc-rest-woo-wallet-controller.php:70
+#: includes/api/Controllers/Version3/class-wc-rest-wallet-controller.php:68
+msgid "Wallet transaction type."
+msgstr "Тип транзакции"
+
+#: includes/class-woo-wallet-admin.php:366
+msgid "Setup"
+msgstr "Настройка"
+
+#: includes/class-woo-wallet-admin.php:364
+msgid "Manage"
+msgstr "Управлять"
+
+#: includes/class-woo-wallet-admin.php:354
+msgid "Disabled"
+msgstr "Выключено"
+
+#: includes/class-woo-wallet-admin.php:352
+msgid "Yes"
+msgstr "Да"
+
+#: includes/class-woo-wallet-admin.php:352
+msgid "Enabled"
+msgstr "Включено"
+
+#: includes/class-woo-wallet-admin.php:341
+msgid "Action"
+msgstr "Действие"
+
+#: includes/class-woo-wallet-admin.php:336
+msgid "Integrated wallet actions are listed below. If active those actions will be triggered with respective WordPress hook."
+msgstr "Встроенные действия кошелька перечислено ниже. Если включить это действия, они будут активироваться через WordPress hook"
+
+#: includes/class-woo-wallet-admin.php:333
+msgid "Wallet actions"
+msgstr "Действия с кошельком"
+
+#: includes/abstracts/abstract-woo-wallet-actions.php:86
+msgid "Return to actions"
+msgstr "Вернуться к действиям"
+
+#: includes/actions/class-woo-wallet-action-new-registration.php:13
+msgid "New user registration"
+msgstr "Регистрация нового пользователя"
+
+#: includes/actions/class-woo-wallet-action-new-registration.php:38
+msgid "Enter amount which will be credited to the user wallet after registration."
+msgstr "Введите сумму, которая будет зачислена на кошелек пользователя после регистрации."
+
+#: includes/actions/class-woo-wallet-action-new-registration.php:46
+msgid "Balance credited for becoming a member."
+msgstr "Баланс начисляется за членство."
+
+#: includes/actions/class-woo-wallet-action-daily-visits.php:54
+msgid "Balance credited visiting site."
+msgstr "Баланс зачисляется на посещение сайта."
+
+#: includes/actions/class-woo-wallet-action-daily-visits.php:53
+#: includes/actions/class-woo-wallet-action-new-registration.php:45
+#: includes/actions/class-woo-wallet-action-product-review.php:50
+#: includes/actions/class-woo-wallet-action-referrals.php:74
+#: includes/actions/class-woo-wallet-action-referrals.php:118
+msgid "Wallet transaction description that will display as transaction note."
+msgstr "Описание транзакции кошелька, которое будет отображаться в виде примечания к транзакции."
+
+#: includes/actions/class-woo-wallet-action-daily-visits.php:37
+#: includes/actions/class-woo-wallet-action-referrals.php:51
+msgid "Enter amount which will be credited to the user wallet for daily visits."
+msgstr "Введите сумму, которая будет зачислена на кошелек пользователя за ежедневные посещения."
+
+#: includes/actions/class-woo-wallet-action-daily-visits.php:13
+msgid "Daily visits"
+msgstr "Ежедневные посещения"
+
+#: includes/class-woo-wallet-admin.php:1033
+msgid "View details"
+msgstr "Посмотреть детали"
+
+#: includes/class-woo-wallet-extensions.php:37
+#: includes/class-woo-wallet-extensions.php:90
+msgid "Extensions"
+msgstr "Расширения"
+
+#. translators: wallet amount
+#: includes/class-woo-wallet-frontend.php:575
+msgid "Upon placing this order a cashback of %s will be credited to your wallet."
+msgstr "При оформлении заказа возвращается кэшбэк в размере %s будут зачислены на ваш кошелек."
+
+#: includes/class-woo-wallet-settings.php:177
+msgid "Transfer charge Amount"
+msgstr "Сумма комиссии за перевод"
+
+#: includes/class-woo-wallet-settings.php:178
+msgid "Enter transfer charge amount"
+msgstr "Введите сумму комиссии за перевод"
+
+#: includes/class-woo-wallet-settings.php:166
+msgid "Transfer charge type"
+msgstr "Тип комиссии за перевод"
+
+#: includes/class-woo-wallet-settings.php:203
+msgid "Processing"
+msgstr "Обработка"
+
+#: includes/class-woo-wallet-settings.php:204
+msgid "Completed"
+msgstr "Завершено"
+
+#: includes/class-woo-wallet-settings.php:202
+msgid "On hold"
+msgstr "На удержании"
+
+#: includes/class-woo-wallet-settings.php:201
+msgid "Pending payment"
+msgstr "В ожидании оплаты"
+
+#: includes/class-woo-wallet-admin.php:439
+#: includes/class-woo-wallet-frontend.php:250
+msgid "Searching…"
+msgstr "Поиск…"
+
+#: includes/marketplace/dokan/class-woo-wallet-dokan.php:233
+msgid "0.00"
+msgstr "0.00"
+
+#: includes/class-woo-wallet-settings.php:196
+msgid "Select order status to process cashback"
+msgstr "Выберите статус заказа для обработки кэшбэка"
+
+#: includes/class-woo-wallet-settings.php:195
+msgid "Process cashback"
+msgstr "Обработка кэшбэка"
+
+#: includes/marketplace/dokan/class-woo-wallet-dokan.php:196
+msgid "Cashback Options"
+msgstr "Настройки кэшбека"
+
+#. Description of the plugin
+msgid "The leading wallet plugin for WooCommerce with partial payment, refunds, cashbacks and what not!"
+msgstr "Лучший плагин кошелька для WooCommerce с частичной оплатой, возвратами, кэшбэками и многим другим!"
+
+#: includes/class-woo-wallet-admin.php:1018
+msgid "Wallet Balance"
+msgstr "Кошелек"
+
+#: includes/class-woo-wallet-frontend.php:243
+msgid "Next"
+msgstr "Вперед"
+
+#: includes/class-woo-wallet-frontend.php:244
+msgid "Previous"
+msgstr "Назад"
+
+#: includes/class-woo-wallet-frontend.php:246
+msgid "Please enter a valid email address"
+msgstr "Пожалуйста укажите правильный email "
+
+#: includes/class-woo-wallet-admin.php:438
+#: includes/class-woo-wallet-frontend.php:247
+msgid "No results found"
+msgstr "Результатов не найдено"
+
+#: includes/class-woo-wallet-frontend.php:232
+msgid "No transactions available"
+msgstr "Транзакций не найдено"
+
+#. translators: menu length
+#: includes/class-woo-wallet-frontend.php:234
+msgid "Show %s entries"
+msgstr "Показать %s записей"
+
+#: includes/api/class-wc-rest-woo-wallet-controller.php:48
+#: includes/api/class-wc-rest-woo-wallet-controller.php:95
+#: includes/api/class-woo-wallet-rest-controller.php:49
+#: includes/api/class-woo-wallet-rest-controller.php:77
+msgid "Unique identifier for the resource."
+msgstr "Уникальный идентификатор ресурса."
+
+#: includes/class-woo-wallet-admin.php:437
+#: includes/class-woo-wallet-frontend.php:249
+msgid "Please enter 3 or more characters"
+msgstr "Пожалуйста, введите ещё 3 или более символов"
+
+#: includes/class-woo-wallet-frontend.php:241
+msgid "First"
+msgstr "Первая"
+
+#: includes/class-woo-wallet-frontend.php:242
+msgid "Last"
+msgstr "Последняя"
+
+#: templates/wc-endpoint-wallet.php:86
+msgid "(Email)"
+msgstr "(Email)"
+
+#. translators: wallet amount
+#: includes/class-woo-wallet-wallet.php:194
+msgid "Wallet amount %s has been credited to customer upon cancellation"
+msgstr "Сумма кошелька %s был зачислен клиенту при отмене"
+
+#. translators: Order number
+#: includes/class-woo-wallet-wallet.php:204
+msgid "Cashback for #%s has been debited upon cancellation"
+msgstr "Кэшбэк за #%s был списан при отмене"
+
+#. translators: wallet amount
+#: includes/class-woo-wallet-wallet.php:173
+msgid "%s paid through wallet"
+msgstr "%s оплачено через кошелек"
+
+#: includes/class-woo-wallet-payment-method.php:69
+msgid "This controls the title which the user sees during checkout."
+msgstr "Этот заголовок, пользователь видит во время оформления заказа."
+
+#: includes/class-woo-wallet-wallet.php:140
+msgid "Wallet credit through cashback #"
+msgstr "Кэшбэк за покупку #"
+
+#: includes/class-woo-wallet-wallet.php:121
+msgid "Wallet credit through purchase #"
+msgstr "Пополнение через заказ #"
+
+#: includes/class-woo-wallet-payment-method.php:159
+#: includes/class-woo-wallet-wallet.php:170
+msgid "For order payment #"
+msgstr "Оплата заказа #"
+
+#: includes/class-woo-wallet-settings.php:90
+msgid "Credit Options"
+msgstr "Настройки начислений"
+
+#: includes/class-woo-wallet-admin.php:420
+msgid "to customer wallet"
+msgstr "в кошелёк пользователя"
+
+#: includes/class-woo-wallet-admin.php:277
+#: includes/class-woo-wallet-admin.php:279
+msgid "Woo Wallet"
+msgstr "Woo Wallet"
+
+#. translators: 1: user_login, 2: user_email
+#: includes/class-woo-wallet-ajax.php:169
+#: includes/class-woo-wallet-ajax.php:324
+#: includes/class-woo-wallet-ajax.php:343
+msgctxt "user autocomplete result"
+msgid "%1$s (%2$s)"
+msgstr "%1$s (%2$s)"
+
+#: templates/wc-endpoint-wallet.php:84
+msgid "Select whom to transfer"
+msgstr "Укажите получателя перевода"
+
+#: templates/wc-endpoint-wallet.php:97
+msgid "What's this for"
+msgstr "Комментарий"
+
+#: includes/class-woo-wallet-settings.php:152
+msgid "Allow Wallet Transfer"
+msgstr "Разрешить переводы между кошельками"
+
+#: includes/class-woo-wallet-settings.php:153
+msgid "If checked user will be able to transfer fund to another user."
+msgstr "Если отмечено, пользователи смогут переводить деньги друг другу."
+
+#: includes/class-woo-wallet-frontend.php:458
+msgid "Entered amount is greater than current wallet amount."
+msgstr "Указанная сумма больше, чем есть в кошельке."
+
+#: includes/class-woo-wallet-frontend.php:452
+msgid "Invalid user"
+msgstr "Пользователь не найден"
+
+#: templates/wc-endpoint-wallet.php:102
+msgid "Proceed to transfer"
+msgstr "Перевести"
+
+#: includes/class-woo-wallet-frontend.php:469
+msgid "Amount transferred successfully!"
+msgstr "Перевод завершён успешно!!"
+
+#: templates/wc-endpoint-wallet.php:34
+msgid "Wallet transfer"
+msgstr "Перевести"
+
+#: templates/wc-endpoint-wallet.php:62
+msgid "Balance"
+msgstr "Баланс"
+
+#: templates/wc-endpoint-wallet-transactions.php:25
+msgid "Current balance :"
+msgstr "Текущий баланс:"
+
+#: includes/class-woo-wallet-settings.php:136
+msgid "Maximum Topup Amount"
+msgstr "Максимальная сумма пополнения"
+
+#: includes/class-woo-wallet-settings.php:129
+msgid "Minimum Topup Amount"
+msgstr "Минимальная сумма пополнения"
+
+#. translators: Maximum topup amount
+#: includes/class-woo-wallet-frontend.php:383
+msgid "Wallet top up amount should be less than %s"
+msgstr "Сумма пополнения не должна превышать %s"
+
+#. translators: Minimum topup amount
+#: includes/class-woo-wallet-frontend.php:376
+msgid "The minimum amount needed for wallet top up is %s"
+msgstr "Минимальная сумма пополнения %s"
+
+#: includes/class-woo-wallet-admin.php:419
+#: includes/class-woo-wallet-admin.php:1068
+msgid "Refund"
+msgstr "Возврат"
+
+#: templates/emails/plain/user-new-transaction.php:27
+#: templates/emails/plain/user-new-transaction.php:30
+#: templates/emails/user-new-transaction.php:30
+#: templates/emails/user-new-transaction.php:33
+msgid "Current wallet balance is"
+msgstr "Текущий баланс кошелька"
+
+#: templates/emails/plain/user-new-transaction.php:27
+#: templates/emails/plain/user-new-transaction.php:30
+#: templates/emails/user-new-transaction.php:30
+#: templates/emails/user-new-transaction.php:33
+msgid "Thank you for using your wallet."
+msgstr "Благодарим за использование кошелька. "
+
+#: includes/abstracts/abstract-woo-wallet-actions.php:82
+#: includes/class-woo-wallet-frontend.php:396
+#: includes/class-woo-wallet-frontend.php:475
+msgid "Cheatin&#8217; huh?"
+msgstr "Хакер, что ли?"
+
+#: includes/class-woo-wallet-settings.php:130
+msgid "The minimum amount needed for wallet top up"
+msgstr "Минимальная сумма, на которую возможно пополнить кошелёк."
+
+#: templates/emails/plain/user-new-transaction.php:27
+#: templates/emails/user-new-transaction.php:30
+msgid "has been credited to your wallet."
+msgstr "было зачислено в ваш кошёлек."
+
+#: includes/class-woo-wallet-settings.php:137
+msgid "The maximum amount needed for wallet top up"
+msgstr "Максимальная сумма, на которую возможно пополнить кошелёк"
+
+#: includes/class-woo-wallet-payment-method.php:130
+msgid "Payment error: "
+msgstr "Ошибка платежа: "
+
+#: includes/class-woo-wallet-payment-method.php:130
+msgid "Your wallet balance is low. Please add %s to proceed with this transaction."
+msgstr "Недостаточная сумма на балансе. Пожалуйста, добавьте %s чтобы завершить транзакцию."
+
+#: includes/class-woo-wallet-settings.php:253
+msgid "Enter applicable minimum cart amount for cashback"
+msgstr "Укажите минимальную сумму товаров в корзине для начисления кэшбэка"
+
+#: includes/class-woo-wallet-settings.php:252
+msgid "Minimum Cart Amount"
+msgstr "Минимальная стоимость корзины"
+
+#: includes/class-woo-wallet-settings.php:224
+msgid "Product category wise"
+msgstr "Начисления по категориям"
+
+#. translators: coupon code
+#: includes/class-woo-wallet-frontend.php:756
+msgid "Cashback: %s"
+msgstr "Кэшбэк: %s"
+
+#: includes/class-woo-wallet-frontend.php:739
+msgid "Coupon code applied successfully as cashback."
+msgstr "Купон успешно применён и будет зачислен как кэшбэк."
+
+#: includes/class-woo-wallet-settings.php:266
+msgid "Allow Minimum cashback"
+msgstr "Минимальный кэшбэк"
+
+#: includes/class-woo-wallet-settings.php:267
+msgid "If checked minimum cashback amount will be applied on product category cashback calculation."
+msgstr "Если товар находится в нескольких категориях, то при начислении кэшбэка за товар будет учитываться категория с минимальным кэшбэком."
+
+#: includes/class-woo-wallet-admin.php:907
+msgid "Endpoint for the \"My account &rarr; View wallet transactions\" page."
+msgstr "Эндпоинт для страницы Мой аккаунт &rarr; Просмотр транзакций кошелька."
+
+#: includes/class-woo-wallet-admin.php:906
+#: includes/class-woo-wallet-frontend.php:172
+msgid "Wallet Transactions"
+msgstr "Транзакции кошелька"
+
+#: includes/class-woo-wallet-admin.php:899
+msgid "Endpoint for the \"My account &rarr; My Wallet\" page."
+msgstr "Эндпоинт для страницы Мой аккаунт &rarr; Мой кошелек."
+
+#: includes/class-woo-wallet-admin.php:920
+msgid "Endpoints are appended to your page URLs to handle specific actions on the accounts pages. They should be unique and can be left blank to disable the endpoint."
+msgstr "Эндпоинты добавляются к URL страницы для обработки определённых действий на страницах аккаунтов. Они должны быть уникальными и могут быть пустым, чтобы отключить эндпоинт."
+
+#: includes/class-woo-wallet-admin.php:918
+msgid "Wallet endpoints"
+msgstr "Эндпоинты кошелька"
+
+#: includes/class-woo-wallet-settings.php:422
+msgid "Mini wallet display location"
+msgstr "Расположение мини-кошелька"
+
+#: includes/class-woo-wallet-admin.php:548
+msgid "Select payment type"
+msgstr "Выберите тип операции"
+
+#: includes/class-woo-wallet-admin.php:525
+msgid "Enter Amount"
+msgstr "Укажите сумму"
+
+#: includes/class-woo-wallet-settings.php:260
+msgid "Enter maximum cashback amount"
+msgstr "Укажите величину, которой будет ограничен кэшбэк при начислении"
+
+#: includes/class-woo-wallet-settings.php:259
+msgid "Maximum Cashback Amount"
+msgstr "Наибольшая величина кэшбэка"
+
+#: includes/class-woo-wallet-frontend.php:695
+#: includes/class-woo-wallet-frontend.php:720
+msgid " Cashback"
+msgstr " Кэшбэк"
+
+#: includes/class-woo-wallet-wallet.php:151
+msgid "Wallet credit through cashback by applying coupon"
+msgstr "Кэшбэк, полученный через купон"
+
+#: includes/class-woo-wallet-admin.php:834
+msgid "Apply as cashback"
+msgstr "Использовать как кэшбэк"
+
+#: includes/class-woo-wallet-admin.php:870
+msgid "Thanks :)"
+msgstr "Спасибо :)"
+
+#. translators: Plugin name
+#: includes/class-woo-wallet-admin.php:868
+msgid "If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr "Если вам нравится %1$s, поставьте нам оценку %2$s. Заранее спасибо!"
+
+#: includes/class-woo-wallet-admin.php:835
+msgid "Check this box if the coupon should apply as cashback."
+msgstr "Отметьте, если купон должен зачисляться в качестве кэшбэка на кошелёк пользователя."
+
+#: includes/class-woo-wallet-admin.php:481
+msgid "Search Users"
+msgstr "Поиск пользователей"
+
+#: includes/class-woo-wallet-settings.php:398
+msgid "Rechargeable Product Tax class"
+msgstr "Класс налога на товар пополнения"
+
+#: includes/class-woo-wallet-settings.php:391
+msgid "Taxable"
+msgstr "Облагается налогом"
+
+#: includes/class-woo-wallet-settings.php:387
+msgid "Rechargeable Product Tax status"
+msgstr "Налог на товар пополнения"
+
+#: includes/class-woo-wallet-settings.php:402
+msgid "Choose a tax class for rechargeable product. Tax classes are used to apply different tax rates specific to certain types of product."
+msgstr "Укажите класс налога для товара пополнения. Налоговые классы используются чтобы применять разные налоговые ставки для разных типов товаров."
+
+#: includes/class-woo-wallet-settings.php:392
+msgctxt "Tax status"
+msgid "None"
+msgstr "Не облагается налогом"
+
+#: includes/class-woo-wallet-settings.php:388
+#: includes/class-woo-wallet-settings.php:399
+msgid "Define whether or not the rechargeable Product is taxable."
+msgstr "Укажите, должен ли облагаться налогом товар для пополнения кошелька."
+
+#: includes/class-woo-wallet-settings.php:147
+msgid "If a purchase requires more balance than you have in your wallet, then if checked the wallet balance will be deduct first and the rest of the amount will need to be paid."
+msgstr "Если включить эту опцию, то при заказе на сумму, превышающую баланс кошелька, сначала автоматически спишутся доступные в кошельке средства, а остальная сумма будет уплачена через выбранный способ оплаты."
+
+#: includes/class-woo-wallet-settings.php:146
+msgid "Auto deduct wallet balance for partial payment"
+msgstr "Автоматическая частичная оплата из кошелька"
+
+#: includes/class-woo-wallet.php:228
+msgid "View Wallet settings"
+msgstr "Настройки кошелька"
+
+#: includes/class-woo-wallet-payment-method.php:108
+msgid " | Current Balance: <strong>%s</strong>"
+msgstr " | Текущий баланс: <strong>%s</strong>"
+
+#: includes/marketplace/wc-merketplace/class-woo-wallet-wcmp-gateway.php:47
+msgid "Invalid payment method"
+msgstr "Неправильный способ оплаты"
+
+#: includes/marketplace/wc-merketplace/class-woo-wallet-wcmp-gateway.php:30
+#: includes/marketplace/wcfmmp/class-woo-wallet-wcfmmp-gateway.php:50
+msgid "New transaction has been initiated"
+msgstr "Новая транзакция была инициирована"
+
+#: templates/wc-endpoint-wallet.php:39
+msgid "Transactions"
+msgstr "Транзакции"
+
+#: templates/wc-endpoint-wallet.php:29
+msgid "Wallet topup"
+msgstr "Пополнить"
+
+#: templates/wc-endpoint-wallet.php:128
+msgid "No transactions found"
+msgstr "Транзакции отсутствуют"
+
+#: includes/class-woo-wallet-widgets.php:55 templates/wc-endpoint-wallet.php:78
+msgid "Add"
+msgstr "Пополнить"
+
+#: includes/class-woo-wallet-widgets.php:54 templates/wc-endpoint-wallet.php:71
+msgid "Enter amount"
+msgstr "Укажите сумму"
+
+#: includes/class-woo-wallet-admin.php:155
+#: includes/class-woo-wallet-frontend.php:847 templates/mini-wallet.php:23
+msgid "Current wallet balance"
+msgstr "Текущий баланс кошелька"
+
+#: includes/admin/class-woo-wallet-balance-details.php:324
+#: includes/admin/class-woo-wallet-transaction-details.php:130
+#: includes/class-woo-wallet-admin.php:536
+#: includes/class-woo-wallet-frontend.php:211
+msgid "Debit"
+msgstr "Списание"
+
+#: includes/class-woo-wallet-settings.php:223
+msgid "Product wise"
+msgstr "Начисления по товарам"
+
+#: includes/class-woo-wallet-settings.php:217
+msgid "Select Cashback Rule cart or product wise"
+msgstr "Выберите правило начисления кэшбэка"
+
+#: includes/class-woo-wallet-settings.php:216
+msgid "Cashback Rule"
+msgstr "Правило начисления"
+
+#: includes/class-woo-wallet-settings.php:109
+msgid "Enter wallet rechargeable product title"
+msgstr "Введите название товара, используемого для пополнения кошелька"
+
+#: includes/class-woo-wallet-settings.php:108
+msgid "Rechargeable Product Title"
+msgstr "Название товара для пополнения"
+
+#: includes/admin/class-woo-wallet-balance-details.php:323
+#: includes/admin/class-woo-wallet-transaction-details.php:130
+#: includes/class-woo-wallet-admin.php:535
+#: includes/class-woo-wallet-frontend.php:206
+msgid "Credit"
+msgstr "Пополнение"
+
+#: includes/class-woo-wallet-settings.php:85
+msgid "General"
+msgstr "Основные"
+
+#: includes/class-woo-wallet-settings.php:31
+#: includes/class-woo-wallet-settings.php:315 includes/class-woo-wallet.php:228
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/class-woo-wallet-settings-api.php:405
+#: includes/class-woo-wallet-settings-api.php:423
+msgid "Choose File"
+msgstr "Выберите файл"
+
+#: includes/class-woo-wallet-payment-method.php:83
+msgid "Instructions that will be added to the thank you page."
+msgstr "Инструкции, которые будут добавлены на страницу благодарности."
+
+#: includes/class-woo-wallet-payment-method.php:81
+msgid "Instructions"
+msgstr "Инструкции"
+
+#: includes/class-woo-wallet-payment-method.php:77
+#: includes/class-woo-wallet-payment-method.php:84
+msgid "Pay with wallet."
+msgstr "Оплатить из кошелька."
+
+#: includes/class-woo-wallet-payment-method.php:70
+msgid "Wallet payment"
+msgstr "Оплата из кошелька"
+
+#: includes/class-woo-wallet-payment-method.php:61
+msgid "Enable wallet payments"
+msgstr "Включить оплату из кошелька"
+
+#: includes/actions/class-woo-wallet-action-daily-visits.php:29
+#: includes/actions/class-woo-wallet-action-new-registration.php:30
+#: includes/actions/class-woo-wallet-action-product-review.php:35
+#: includes/actions/class-woo-wallet-action-referrals.php:37
+#: includes/class-woo-wallet-payment-method.php:60
+#: includes/emails/class-woo-wallet-email-low-wallet-balance.php:124
+#: includes/emails/class-woo-wallet-email-new-transaction.php:140
+msgid "Enable/Disable"
+msgstr "Включить/Выключить"
+
+#: includes/class-woo-wallet-payment-method.php:49
+#: includes/marketplace/dokan/class-woo-wallet-dokan.php:88
+#: includes/marketplace/wc-merketplace/class-woo-wallet-wcmp.php:37
+#: includes/marketplace/wc-merketplace/class-woo-wallet-wcmp.php:42
+#: includes/marketplace/wcfmmp/class-woo-wallet-wcfmmp-gateway.php:24
+msgid "Wallet"
+msgstr "Кошелёк"
+
+#: includes/class-woo-wallet-payment-method.php:50
+msgid "Have your customers pay with wallet."
+msgstr "Позвольте своим покупателям платить из кошелька."
+
+#: templates/woo-wallet-partial-payment.php:43
+#: templates/woo-wallet-partial-payment.php:47
+msgid "Pay by wallet"
+msgstr "Оплатить из кошелька"
+
+#: includes/class-woo-wallet-frontend.php:540
+msgid "You can not add another product while your cart contains with wallet rechargeable product."
+msgstr ""
+"Вы не можете добавить товар в корзину, пока в ней находится товар \n"
+" для пополнения кошелька."
+
+#: includes/class-woo-wallet-frontend.php:289
+msgid "Logout"
+msgstr "Выход"
+
+#: includes/class-woo-wallet-admin.php:898
+#: includes/class-woo-wallet-admin.php:1006
+#: includes/class-woo-wallet-frontend.php:169
+#: includes/class-woo-wallet-frontend.php:287
+#: templates/wc-endpoint-wallet.php:50
+msgid "My Wallet"
+msgstr "Мой кошелёк"
+
+#: includes/class-woo-wallet-admin.php:714
+#: includes/class-woo-wallet-admin.php:766
+#: includes/class-woo-wallet-admin.php:943
+#: includes/class-woo-wallet-admin.php:967
+#: includes/class-woo-wallet-settings.php:170
+#: includes/class-woo-wallet-settings.php:238
+#: includes/class-woo-wallet-settings.php:283
+#: includes/marketplace/dokan/class-woo-wallet-dokan.php:214
+msgid "Percentage"
+msgstr "Процент"
+
+#: includes/class-woo-wallet-admin.php:690
+#: includes/class-woo-wallet-admin.php:815
+msgid "Cashback"
+msgstr "Кэшбэк"
+
+#: includes/class-woo-wallet-admin.php:578
+msgid "Transaction details"
+msgstr "Список транзакций"
+
+#: includes/class-woo-wallet-admin.php:556
+msgid "Enter Description"
+msgstr "Укажите описание"
+
+#: includes/actions/class-woo-wallet-action-daily-visits.php:51
+#: includes/actions/class-woo-wallet-action-new-registration.php:43
+#: includes/actions/class-woo-wallet-action-product-review.php:48
+#: includes/actions/class-woo-wallet-action-referrals.php:72
+#: includes/actions/class-woo-wallet-action-referrals.php:116
+#: includes/admin/class-woo-wallet-balance-details.php:198
+#: includes/class-woo-wallet-admin.php:342
+#: includes/class-woo-wallet-admin.php:553
+#: includes/class-woo-wallet-payment-method.php:74
+msgid "Description"
+msgstr "Описание"
+
+#: includes/class-woo-wallet-admin.php:514
+#: includes/class-woo-wallet-admin.php:581
+msgid "Current wallet balance: "
+msgstr "Текущий баланс кошелька: "
+
+#: includes/class-woo-wallet-admin.php:477
+msgid "Users wallet details"
+msgstr "Кошельки пользователей"
+
+#: includes/admin/class-woo-wallet-transaction-details.php:48
+#: includes/class-woo-wallet-frontend.php:221
+#: includes/export/class-terawallet-csv-exporter.php:47
+msgid "Date"
+msgstr "Дата"
+
+#: includes/admin/class-woo-wallet-transaction-details.php:46
+#: includes/class-woo-wallet-frontend.php:216
+#: includes/export/class-terawallet-csv-exporter.php:45
+msgid "Details"
+msgstr "Подробности"
+
+#. translators: WooCommerce currency
+#: includes/actions/class-woo-wallet-action-daily-visits.php:35
+#: includes/actions/class-woo-wallet-action-new-registration.php:36
+#: includes/actions/class-woo-wallet-action-product-review.php:41
+#: includes/actions/class-woo-wallet-action-referrals.php:49
+#: includes/actions/class-woo-wallet-action-referrals.php:85
+#: includes/admin/class-woo-wallet-balance-details.php:197
+#: includes/admin/class-woo-wallet-transaction-details.php:45
+#: includes/class-woo-wallet-admin.php:522
+#: includes/export/class-terawallet-csv-exporter.php:44
+#: templates/wc-endpoint-wallet.php:93
+msgid "Amount"
+msgstr "Сумма"
+
+#: includes/admin/class-woo-wallet-balance-details.php:44
+#: includes/class-woo-wallet-admin.php:281
+msgid "Actions"
+msgstr "Действия"
+
+#: includes/admin/class-woo-wallet-balance-details.php:43
+msgid "Remaining balance"
+msgstr "Баланс"
+
+#: includes/admin/class-woo-wallet-balance-details.php:42
+#: includes/export/class-terawallet-csv-exporter.php:41
+msgid "Email"
+msgstr "Email"
+
+#: includes/admin/class-woo-wallet-balance-details.php:41
+#: includes/admin/class-woo-wallet-transaction-details.php:43
+msgid "Name"
+msgstr "Имя"
+
+#: includes/admin/class-woo-wallet-balance-details.php:40
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: includes/admin/class-woo-wallet-balance-details.php:45
+#: includes/admin/class-woo-wallet-transaction-details.php:49
+#: includes/class-woo-wallet-frontend.php:201
+#: includes/export/class-terawallet-csv-exporter.php:39
+msgid "ID"
+msgstr "ID"
+
+#: templates/emails/plain/user-new-transaction.php:30
+#: templates/emails/user-new-transaction.php:33
+msgid "has been debited from your wallet."
+msgstr " было списано из вашего кошелька."
+
+#: includes/emails/class-woo-wallet-email-new-transaction.php:19
+msgid "New wallet transaction"
+msgstr "Новая транзакция кошелька"
+
+#: includes/class-woo-wallet-settings.php:366
+msgid "Allow this gateway for recharge wallet"
+msgstr "Разрешить этот шлюз для пополнения кошелька"
+
+#: includes/class-woo-wallet-payment-method.php:67
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/class-woo-wallet-settings.php:334
+#: includes/class-woo-wallet-settings.php:361
+msgid "(no title)"
+msgstr "(без заголовка)"
+
+#. translators: %s: list of placeholders
+#: includes/emails/class-woo-wallet-email-low-wallet-balance.php:141
+#: includes/emails/class-woo-wallet-email-low-wallet-balance.php:150
+#: includes/emails/class-woo-wallet-email-new-transaction.php:150
+#: includes/emails/class-woo-wallet-email-new-transaction.php:159
+msgid "Available placeholders: %s"
+msgstr "Доступные заполнители: %s"
+
+#: includes/emails/class-woo-wallet-email-low-wallet-balance.php:155
+#: includes/emails/class-woo-wallet-email-new-transaction.php:164
+msgid "Email type"
+msgstr "Тип письма"
+
+#: includes/emails/class-woo-wallet-email-low-wallet-balance.php:157
+#: includes/emails/class-woo-wallet-email-new-transaction.php:166
+msgid "Choose which format of email to send."
+msgstr "Выберите формат письма для отправки."
+
+#: includes/emails/class-woo-wallet-email-low-wallet-balance.php:146
+#: includes/emails/class-woo-wallet-email-new-transaction.php:155
+msgid "Email heading"
+msgstr "Заголовок письма"
+
+#: includes/emails/class-woo-wallet-email-low-wallet-balance.php:137
+#: includes/emails/class-woo-wallet-email-new-transaction.php:146
+msgid "Subject"
+msgstr "Тема"
+
+#: includes/emails/class-woo-wallet-email-low-wallet-balance.php:126
+#: includes/emails/class-woo-wallet-email-new-transaction.php:142
+msgid "Enable this email notification"
+msgstr "Включить это Email-оповещение"
+
+#: includes/emails/class-woo-wallet-email-new-transaction.php:50
+msgid "Thank you for using wallet"
+msgstr "Благодарим за использование кошелька"
+
+#: includes/emails/class-woo-wallet-email-new-transaction.php:40
+msgid "Your {site_title} wallet transaction from {transaction_date}"
+msgstr "Транзакция кошелька {site_title} от {transaction_date}"
+
+#: includes/emails/class-woo-wallet-email-new-transaction.php:20
+msgid "New wallet transaction emails are sent to user when a wallet transaction received."
+msgstr "Письма о совершении транзакций кошелька, отправляемые пользователю."
+
+#: includes/class-woo-wallet-ajax.php:282
+#: includes/class-woo-wallet-payment-method.php:187
+msgid "Refund not credited to customer"
+msgstr "Возврат не начислен клиенту"
+
+#: includes/class-woo-wallet-frontend.php:288
+msgid "Account details"
+msgstr "Детали учётной записи"
+
+#: includes/class-woo-wallet-ajax.php:240
+msgid "Invalid refund amount"
+msgstr "Некорректная сумма возврата"
+
+#: includes/admin/class-woo-wallet-transaction-details.php:44
+#: includes/class-woo-wallet-admin.php:529
+#: includes/export/class-terawallet-csv-exporter.php:42
+msgid "Type"
+msgstr "Операция"
+
+#: includes/class-woo-wallet-admin.php:726
+#: includes/class-woo-wallet-admin.php:783
+#: includes/class-woo-wallet-admin.php:948
+#: includes/class-woo-wallet-admin.php:973
+#: includes/class-woo-wallet-settings.php:245
+#: includes/marketplace/dokan/class-woo-wallet-dokan.php:224
+msgid "Cashback Amount"
+msgstr "Величина кэшбэка"
+
+#: includes/class-woo-wallet-admin.php:727
+#: includes/class-woo-wallet-settings.php:246
+msgid "Enter cashback amount"
+msgstr "Укажите величину начисляемого кэшбэка"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/woo-wallet/"
+msgstr "https://wordpress.org/plugins/woo-wallet/"
+
+#: includes/class-woo-wallet-admin.php:715
+#: includes/class-woo-wallet-admin.php:767
+#: includes/class-woo-wallet-admin.php:944
+#: includes/class-woo-wallet-admin.php:968
+#: includes/class-woo-wallet-settings.php:171
+#: includes/class-woo-wallet-settings.php:239
+#: includes/class-woo-wallet-settings.php:284
+#: includes/marketplace/dokan/class-woo-wallet-dokan.php:215
+msgid "Fixed"
+msgstr "Фиксированная величина"
+
+#: includes/class-woo-wallet-settings.php:280
+msgid "Select gateway charge type percentage or fixed"
+msgstr "Выберите способ расчёта комиссии"
+
+#: includes/class-woo-wallet-settings.php:273
+msgid "Payment gateway charge"
+msgstr "Комиссия при пополнении"
+
+#: includes/class-woo-wallet-settings.php:274
+msgid "Charge customer when they add balance to their wallet?"
+msgstr "Взимать с клиентов комиссию при пополнении кошелька?"
+
+#: includes/class-woo-wallet-settings.php:339
+msgid "Enter gateway charge amount for "
+msgstr "Комиссия за пополнение через "
+
+#: includes/class-woo-wallet-admin.php:712
+#: includes/class-woo-wallet-settings.php:235
+msgid "Select cashback type percentage or fixed"
+msgstr "Выберите способ начисления кэшбэка"
+
+#: includes/class-woo-wallet-admin.php:633
+msgid "Please enter amount"
+msgstr "Укажите сумму"
+
+#: includes/class-woo-wallet-frontend.php:610
+msgid "Via wallet"
+msgstr "Из кошелька"
+
+#: includes/class-woo-wallet-settings.php:279
+msgid "Charge type"
+msgstr "Тип комиссии"
+
+#: includes/class-woo-wallet-settings.php:189
+msgid "Cashback Reward Program"
+msgstr "Кэшбэк с покупок"
+
+#: includes/class-woo-wallet-settings.php:190
+msgid "Run cashback reward program on your store"
+msgstr "Запустить программу поощрения, возвращая покупателям на кошелёк часть затрат на покупки"
+
+#: includes/class-woo-wallet-settings.php:222
+msgid "Cart wise"
+msgstr "Начисление на стоимость корзины"
+
+#: includes/class-woo-wallet-admin.php:711
+#: includes/class-woo-wallet-admin.php:764
+#: includes/class-woo-wallet-admin.php:941
+#: includes/class-woo-wallet-admin.php:964
+#: includes/class-woo-wallet-settings.php:234
+#: includes/marketplace/dokan/class-woo-wallet-dokan.php:207
+msgid "Cashback type"
+msgstr "Тип кэшбэка"
+
+#: includes/class-woo-wallet-payment-method.php:76
+msgid "Payment method description that the customer will see on your checkout."
+msgstr "Описание способа оплаты, которое клиент будет видеть при оформлении заказа."
+
+#: includes/class-woo-wallet-settings.php:167
+msgid "Select transfer charge type percentage or fixed"
+msgstr "Выберите тип комиссии за перевод в процентах или фиксированную сумму"

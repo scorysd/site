@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<undefined0><![CDATA[Wallet Topup]]></undefined0>
+	</node>
+	<node>
+		<undefined0><![CDATA[ëßïà óñàòàß]]></undefined0>
+	</node>
+	<node>
+		<undefined0><![CDATA[ëßïà áåç óñîâ]]></undefined0>
+	</node>
+</data>

@@ -1,0 +1,33 @@
+2023-03-31T09:39:10+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on bool in /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct(Object(WC_Cart))
+#4 /var/www/html/wp-includes/class-wp-hook.php(306): WC_Cart->calculate_totals()
+#5 /var/www/html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /var/www/html/wp-content/plugins/woo-wallet/includes/class-woo-wallet-frontend.php(866): do_action('woocommerce_car.. в /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php на строке 225
+
+2023-03-31T09:45:02+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on bool in /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct(Object(WC_Cart))
+#4 /var/www/html/wp-includes/class-wp-hook.php(306): WC_Cart->calculate_totals()
+#5 /var/www/html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /var/www/html/wp-content/plugins/woo-wallet/includes/class-woo-wallet-frontend.php(866): do_action('woocommerce_car.. в /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php на строке 225
+
+2023-03-31T09:48:58+00:00 CRITICAL Uncaught Error: Call to a member function get_tax_class() on bool in /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php:225
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(651): WC_Cart_Totals->get_items_from_cart()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(143): WC_Cart_Totals->calculate_item_totals()
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(134): WC_Cart_Totals->calculate()
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1401): WC_Cart_Totals->__construct(Object(WC_Cart))
+#4 /var/www/html/wp-includes/class-wp-hook.php(306): WC_Cart->calculate_totals()
+#5 /var/www/html/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /var/www/html/wp-content/plugins/woo-wallet/includes/class-woo-wallet-frontend.php(866): do_action('woocommerce_car.. в /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php на строке 225
+

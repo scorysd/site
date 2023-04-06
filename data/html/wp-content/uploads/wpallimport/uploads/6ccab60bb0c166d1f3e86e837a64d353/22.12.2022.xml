@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<column_1><![CDATA[Шпик свиной сырокопчёный в/у]]></column_1>
+		<column_2><![CDATA[520]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Шпик свиной солёный в/у]]></column_1>
+		<column_2><![CDATA[435;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Колбаса "Московская" в/у (говядина),1588;;;]]></column_1>
+	</node>
+	<node>
+		<column_1><![CDATA[Сосиски "Молочные" в/у,1563;;;]]></column_1>
+	</node>
+	<node>
+		<column_1><![CDATA[Окорочок куриный (варёно-копчёный) в/у]]></column_1>
+		<column_2><![CDATA[702;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Курица-гриль (бедро]]></column_1>
+		<column_2><![CDATA[ крыло]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Курица-гриль (халяль)]]></column_1>
+		<column_2><![CDATA[621;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Ребро свиное варено-копченое]]></column_1>
+		<column_2><![CDATA[600;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Плов из мяса птицы]]></column_1>
+		<column_2><![CDATA[610;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Плов из мяса свинины]]></column_1>
+		<column_2><![CDATA[550;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Рис с овощами]]></column_1>
+		<column_2><![CDATA[440;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Пицца "с колбасой и сыром". 500гр,505;;;]]></column_1>
+	</node>
+	<node>
+		<column_1><![CDATA[Булочка с изюмом]]></column_1>
+		<column_2><![CDATA[ 100 гр]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Булочка чесночная]]></column_1>
+		<column_2><![CDATA[ 50 г]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Булочка "Дорожная" (посыпушка) 110 гр,32;;;]]></column_1>
+	</node>
+	<node>
+		<column_1><![CDATA[Сосиска в тесте 120гр]]></column_1>
+		<column_2><![CDATA[108;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Пирожок печеный с картофелем 110 гр]]></column_1>
+		<column_2><![CDATA[50;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Пирожок печеный с капустой 110 гр]]></column_1>
+		<column_2><![CDATA[50;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Рогалик (сдоба с вареным сгущ.молоком)]]></column_1>
+		<column_2><![CDATA[50;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Ватрушка с творогом 130 гр]]></column_1>
+		<column_2><![CDATA[60;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Пончик 1шт-40гр]]></column_1>
+		<column_2><![CDATA[30;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Сырник из творога 100 гр (2шт)]]></column_1>
+		<column_2><![CDATA[121;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Хлеб пшеничный "Фунтик"1 сорт, 400 гр,39;;;]]></column_1>
+	</node>
+	<node>
+		<column_1><![CDATA[Хлеб пшеничный в/с]]></column_1>
+		<column_2><![CDATA[ 650 гр]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Хлеб ржано-пшеничный]]></column_1>
+		<column_2><![CDATA[ 750 гр]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Блинчик без начинки - 50гр]]></column_1>
+		<column_2><![CDATA[17;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Блинчик с творогом 1 шт - 100гр]]></column_1>
+		<column_2><![CDATA[65;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Котлета ""Домашняя"" (свинина]]></column_1>
+		<column_2><![CDATA[ говядина) п/ф ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Котлета ""Домашняя"" (свинина]]></column_1>
+		<column_2><![CDATA[ говядина) жареная ]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Пельмени ""Мясные"" (свинина)  п/ф]]></column_1>
+		<column_2><![CDATA[358";;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Пельмени ""Мясные"" жареные (свинина)  ]]></column_1>
+		<column_2><![CDATA[540";;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Пельмени ""Куриные""  из мяса птицы п/ф]]></column_1>
+		<column_2><![CDATA[394";;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Пельмени ""Куриные"" жареные из мяса птицы]]></column_1>
+		<column_2><![CDATA[585";;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Беляш с мясом (свинина]]></column_1>
+		<column_2><![CDATA[говядина) 120гр]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Картофель отварной]]></column_1>
+		<column_2><![CDATA[245;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Салат ""Морковь по-корейски""]]></column_1>
+		<column_2><![CDATA[323";;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Салат из свежей б/к капусты]]></column_1>
+		<column_2><![CDATA[296;;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Салат ""Витаминный""(лук маринованный)]]></column_1>
+		<column_2><![CDATA[210";;;]]></column_2>
+	</node>
+	<node>
+		<column_1><![CDATA[Салат из моркови с сыром]]></column_1>
+		<column_2><![CDATA[ майонезом и чесноком]]></column_2>
+	</node>
+</data>
